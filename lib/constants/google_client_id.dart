@@ -1,0 +1,1 @@
+const String PaletheiaGoogleClientId = "764194255950-hark6f3k5ainvnvqs8mhne3ooiikjnf6.apps.googleusercontent.com";
